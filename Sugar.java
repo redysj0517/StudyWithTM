@@ -1,7 +1,7 @@
 package stage1;
 
 import java.util.Scanner;
-
+ 
 public class Sugar {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

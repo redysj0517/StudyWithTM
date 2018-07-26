@@ -1,4 +1,4 @@
-package stage1;
+ package stage1;
  
 public class Cheer {
 	public static void main(String[] args) {
