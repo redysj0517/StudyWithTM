@@ -1,5 +1,5 @@
 package stage1;
-
+ 
 import java.util.Scanner;
 
 public class Calculator3 {
