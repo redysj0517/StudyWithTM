@@ -22,7 +22,7 @@ public class q1546 {
 			result += new_arr[i];
 		}
 		System.out.printf("%.2f", result/N);
-		
+		 
 		sc.close();
 	}
 }

@@ -1,4 +1,4 @@
-package stage4;
+ package stage4;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -3,7 +3,7 @@ import java.util.Scanner;
  
 public class q4344 {
  
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
         int c = sc.nextInt();
         int n, total, count;

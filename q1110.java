@@ -18,7 +18,7 @@ public class q1110 {
 				num = num * 10 + num;
 			} else {
 				ten = num / 10;
-				ill = num % 10;
+				ill = num %  10;
 				temp  = (ten + ill) % 10;
 				num = ill * 10 + temp;
 			}
