@@ -1,5 +1,5 @@
 package d16.dp;
-
+ 
 public class Main {
     public static void main(String[] args) {
         int[][] data = new int[50][50];
